@@ -1,0 +1,55 @@
+[
+  {
+    "ContainingType": "API_Integration_with_Redis.Controllers.RedisController",
+    "Method": "Get",
+    "RelativePath": "api/Redis/cache/{key}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "key",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Integration_with_Redis.Controllers.RedisController",
+    "Method": "Reset",
+    "RelativePath": "api/Redis/cache/delete/{key}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "key",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Integration_with_Redis.Controllers.RedisController",
+    "Method": "Set",
+    "RelativePath": "api/Redis/cache/set",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "key",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "val",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

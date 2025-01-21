@@ -1,0 +1,13 @@
+C:\Users\afati\Documents\GitHub\RedisIntegration\RedisIntegration_Redis\bin\Debug\net8.0\RedisIntegration_Redis.deps.json
+C:\Users\afati\Documents\GitHub\RedisIntegration\RedisIntegration_Redis\bin\Debug\net8.0\RedisIntegration_Redis.dll
+C:\Users\afati\Documents\GitHub\RedisIntegration\RedisIntegration_Redis\bin\Debug\net8.0\RedisIntegration_Redis.pdb
+C:\Users\afati\Documents\GitHub\RedisIntegration\RedisIntegration_Redis\obj\Debug\net8.0\RedisIntegration_Redis.csproj.AssemblyReference.cache
+C:\Users\afati\Documents\GitHub\RedisIntegration\RedisIntegration_Redis\obj\Debug\net8.0\RedisIntegration_Redis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\afati\Documents\GitHub\RedisIntegration\RedisIntegration_Redis\obj\Debug\net8.0\RedisIntegration_Redis.AssemblyInfoInputs.cache
+C:\Users\afati\Documents\GitHub\RedisIntegration\RedisIntegration_Redis\obj\Debug\net8.0\RedisIntegration_Redis.AssemblyInfo.cs
+C:\Users\afati\Documents\GitHub\RedisIntegration\RedisIntegration_Redis\obj\Debug\net8.0\RedisIntegration_Redis.csproj.CoreCompileInputs.cache
+C:\Users\afati\Documents\GitHub\RedisIntegration\RedisIntegration_Redis\obj\Debug\net8.0\RedisIntegration_Redis.sourcelink.json
+C:\Users\afati\Documents\GitHub\RedisIntegration\RedisIntegration_Redis\obj\Debug\net8.0\RedisIntegration_Redis.dll
+C:\Users\afati\Documents\GitHub\RedisIntegration\RedisIntegration_Redis\obj\Debug\net8.0\refint\RedisIntegration_Redis.dll
+C:\Users\afati\Documents\GitHub\RedisIntegration\RedisIntegration_Redis\obj\Debug\net8.0\RedisIntegration_Redis.pdb
+C:\Users\afati\Documents\GitHub\RedisIntegration\RedisIntegration_Redis\obj\Debug\net8.0\ref\RedisIntegration_Redis.dll
