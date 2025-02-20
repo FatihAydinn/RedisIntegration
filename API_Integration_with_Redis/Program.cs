@@ -11,10 +11,12 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-builder.Services.AddSingleton<IRedisServices, RedisServices>(); 
 
-var redisConnection = ConnectionMultiplexer.Connect(configuration.GetConnectionString("Redis"));
+//var redisConnection = ConnectionMultiplexer.Connect(configuration.GetConnectionString("Redis"));
+var redisConnection = ConnectionMultiplexer.Connect(builder.Configuration.GetConnectionString("Redis"));
+
 builder.Services.AddSingleton<IConnectionMultiplexer>(redisConnection);
+builder.Services.AddSingleton<IRedisServices, RedisServices>();
 
 var app = builder.Build();
 

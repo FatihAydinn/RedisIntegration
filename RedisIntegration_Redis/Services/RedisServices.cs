@@ -12,11 +12,13 @@ namespace RedisIntegration_Redis.Services
     {
         private readonly IConnectionMultiplexer _connectionMultiplexer;
         private readonly IDatabaseAsync _databaseAsync;
+        public IDatabase Db { get; }
 
         public RedisServices(IConnectionMultiplexer connectionMultiplexer)
         {
             _connectionMultiplexer = connectionMultiplexer;
             _databaseAsync = _connectionMultiplexer.GetDatabase();
+            Db = _connectionMultiplexer.GetDatabase();
         }
 
         public async Task ClearKeyAsync(string key)

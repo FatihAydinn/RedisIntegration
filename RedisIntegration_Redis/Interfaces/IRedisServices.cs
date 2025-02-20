@@ -1,4 +1,5 @@
-﻿using System;
+﻿using StackExchange.Redis;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,5 +13,6 @@ namespace RedisIntegration_Redis.Interfaces
         Task<string> GetKeyAsync(string key);
         Task<bool> SetKeyAsync(string key, string val);
         void ResetAllKeys();
+        IDatabase Db { get; }
     }
 }
