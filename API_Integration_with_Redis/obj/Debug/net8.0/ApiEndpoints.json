@@ -120,5 +120,47 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Integration_with_Redis.Controllers.UserController",
+    "Method": "GetAllUsers",
+    "RelativePath": "api/User/allUsersWithHash",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Integration_with_Redis.Controllers.UserController",
+    "Method": "GetUserWithHast",
+    "RelativePath": "api/User/GetwithHash/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Integration_with_Redis.Controllers.UserController",
+    "Method": "CreateUserWithHash2",
+    "RelativePath": "api/User/PostWithHash",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "API_Integration_with_Redis.Controllers.User",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]

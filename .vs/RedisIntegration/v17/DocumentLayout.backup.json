@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -61,10 +61,6 @@
               "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "UserController.cs",
@@ -72,7 +68,7 @@
               "RelativeDocumentMoniker": "API_Integration_with_Redis\\Controllers\\UserController.cs",
               "ToolTip": "C:\\Users\\afati\\Documents\\GitHub\\RedisIntegration\\API_Integration_with_Redis\\Controllers\\UserController.cs",
               "RelativeToolTip": "API_Integration_with_Redis\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAcwFYAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-20T20:02:44.104Z",
               "EditorCaption": ""
@@ -87,8 +83,7 @@
               "RelativeToolTip": "API_Integration_with_Redis\\Controllers\\RedisController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T20:02:27.644Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T20:02:27.644Z"
             },
             {
               "$type": "Document",
@@ -100,8 +95,7 @@
               "RelativeToolTip": "RedisIntegration_Redis\\Interfaces\\IRedisServices.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T19:17:27.637Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T19:17:27.637Z"
             },
             {
               "$type": "Document",
@@ -113,8 +107,7 @@
               "RelativeToolTip": "RedisIntegration_Redis\\Services\\RedisServices.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T19:14:55.116Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T19:14:55.116Z"
             },
             {
               "$type": "Document",
@@ -138,8 +131,7 @@
               "RelativeToolTip": "API_Integration_with_Redis\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T13:38:50.449Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-18T13:38:50.449Z"
             }
           ]
         }
