@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\afati\\Documents\\GitHub\\RedisIntegration\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{429831C0-08BD-4028-B6B2-EC1EA572A8C9}|WebUI\\WebUI.csproj|c:\\users\\afati\\documents\\github\\redisintegration\\webui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429831C0-08BD-4028-B6B2-EC1EA572A8C9}|WebUI\\WebUI.csproj|solutionrelative:webui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429831C0-08BD-4028-B6B2-EC1EA572A8C9}|WebUI\\WebUI.csproj|c:\\users\\afati\\documents\\github\\redisintegration\\webui\\views\\home\\userlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{429831C0-08BD-4028-B6B2-EC1EA572A8C9}|WebUI\\WebUI.csproj|solutionrelative:webui\\views\\home\\userlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4FC3D8F4-B742-4DA5-AEF2-E3B1D092E072}|API_Integration_with_Redis\\API_Integration_with_Redis.csproj|c:\\users\\afati\\documents\\github\\redisintegration\\api_integration_with_redis\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FC3D8F4-B742-4DA5-AEF2-E3B1D092E072}|API_Integration_with_Redis\\API_Integration_with_Redis.csproj|solutionrelative:api_integration_with_redis\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FC3D8F4-B742-4DA5-AEF2-E3B1D092E072}|API_Integration_with_Redis\\API_Integration_with_Redis.csproj|c:\\users\\afati\\documents\\github\\redisintegration\\api_integration_with_redis\\controllers\\rediscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FC3D8F4-B742-4DA5-AEF2-E3B1D092E072}|API_Integration_with_Redis\\API_Integration_with_Redis.csproj|solutionrelative:api_integration_with_redis\\controllers\\rediscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4FC3D8F4-B742-4DA5-AEF2-E3B1D092E072}|API_Integration_with_Redis\\API_Integration_with_Redis.csproj|c:\\users\\afati\\documents\\github\\redisintegration\\api_integration_with_redis\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4FC3D8F4-B742-4DA5-AEF2-E3B1D092E072}|API_Integration_with_Redis\\API_Integration_with_Redis.csproj|solutionrelative:api_integration_with_redis\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429831C0-08BD-4028-B6B2-EC1EA572A8C9}|WebUI\\WebUI.csproj|c:\\users\\afati\\documents\\github\\redisintegration\\webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429831C0-08BD-4028-B6B2-EC1EA572A8C9}|WebUI\\WebUI.csproj|solutionrelative:webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4FC3D8F4-B742-4DA5-AEF2-E3B1D092E072}|API_Integration_with_Redis\\API_Integration_with_Redis.csproj|c:\\users\\afati\\documents\\github\\redisintegration\\api_integration_with_redis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FC3D8F4-B742-4DA5-AEF2-E3B1D092E072}|API_Integration_with_Redis\\API_Integration_with_Redis.csproj|solutionrelative:api_integration_with_redis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC3D8F4-B742-4DA5-AEF2-E3B1D092E072}|API_Integration_with_Redis\\API_Integration_with_Redis.csproj|c:\\users\\afati\\documents\\github\\redisintegration\\api_integration_with_redis\\controllers\\rediscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC3D8F4-B742-4DA5-AEF2-E3B1D092E072}|API_Integration_with_Redis\\API_Integration_with_Redis.csproj|solutionrelative:api_integration_with_redis\\controllers\\rediscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1B406304-D10F-4AF1-A5EE-FDAE19F9B633}|RedisIntegration_Redis\\RedisIntegration_Redis.csproj|c:\\users\\afati\\documents\\github\\redisintegration\\redisintegration_redis\\interfaces\\iredisservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -63,31 +79,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\afati\\Documents\\GitHub\\RedisIntegration\\WebUI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebUI\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\afati\\Documents\\GitHub\\RedisIntegration\\WebUI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebUI\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAIAwwCMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T12:25:33.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\afati\\Documents\\GitHub\\RedisIntegration\\API_Integration_with_Redis\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "API_Integration_with_Redis\\Controllers\\UserController.cs",
               "ToolTip": "C:\\Users\\afati\\Documents\\GitHub\\RedisIntegration\\API_Integration_with_Redis\\Controllers\\UserController.cs",
               "RelativeToolTip": "API_Integration_with_Redis\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAcwFYAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAACsAAAAAAAAAAAA5wGwAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-20T20:02:44.104Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RedisController.cs",
-              "DocumentMoniker": "C:\\Users\\afati\\Documents\\GitHub\\RedisIntegration\\API_Integration_with_Redis\\Controllers\\RedisController.cs",
-              "RelativeDocumentMoniker": "API_Integration_with_Redis\\Controllers\\RedisController.cs",
-              "ToolTip": "C:\\Users\\afati\\Documents\\GitHub\\RedisIntegration\\API_Integration_with_Redis\\Controllers\\RedisController.cs",
-              "RelativeToolTip": "API_Integration_with_Redis\\Controllers\\RedisController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T20:02:27.644Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "IRedisServices.cs",
               "DocumentMoniker": "C:\\Users\\afati\\Documents\\GitHub\\RedisIntegration\\RedisIntegration_Redis\\Interfaces\\IRedisServices.cs",
               "RelativeDocumentMoniker": "RedisIntegration_Redis\\Interfaces\\IRedisServices.cs",
@@ -99,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "RedisServices.cs",
               "DocumentMoniker": "C:\\Users\\afati\\Documents\\GitHub\\RedisIntegration\\RedisIntegration_Redis\\Services\\RedisServices.cs",
               "RelativeDocumentMoniker": "RedisIntegration_Redis\\Services\\RedisServices.cs",
@@ -111,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\afati\\Documents\\GitHub\\RedisIntegration\\API_Integration_with_Redis\\appsettings.json",
               "RelativeDocumentMoniker": "API_Integration_with_Redis\\appsettings.json",
@@ -123,15 +140,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\afati\\Documents\\GitHub\\RedisIntegration\\API_Integration_with_Redis\\Program.cs",
               "RelativeDocumentMoniker": "API_Integration_with_Redis\\Program.cs",
               "ToolTip": "C:\\Users\\afati\\Documents\\GitHub\\RedisIntegration\\API_Integration_with_Redis\\Program.cs",
               "RelativeToolTip": "API_Integration_with_Redis\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T13:38:50.449Z"
+              "WhenOpened": "2025-01-18T13:38:50.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\afati\\Documents\\GitHub\\RedisIntegration\\API_Integration_with_Redis\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "API_Integration_with_Redis\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\afati\\Documents\\GitHub\\RedisIntegration\\API_Integration_with_Redis\\Properties\\launchSettings.json",
+              "RelativeToolTip": "API_Integration_with_Redis\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-02T15:50:29.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserList.cshtml",
+              "DocumentMoniker": "C:\\Users\\afati\\Documents\\GitHub\\RedisIntegration\\WebUI\\Views\\Home\\UserList.cshtml",
+              "RelativeDocumentMoniker": "WebUI\\Views\\Home\\UserList.cshtml",
+              "ToolTip": "C:\\Users\\afati\\Documents\\GitHub\\RedisIntegration\\WebUI\\Views\\Home\\UserList.cshtml",
+              "RelativeToolTip": "WebUI\\Views\\Home\\UserList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-02T15:32:26.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RedisController.cs",
+              "DocumentMoniker": "C:\\Users\\afati\\Documents\\GitHub\\RedisIntegration\\API_Integration_with_Redis\\Controllers\\RedisController.cs",
+              "RelativeDocumentMoniker": "API_Integration_with_Redis\\Controllers\\RedisController.cs",
+              "ToolTip": "C:\\Users\\afati\\Documents\\GitHub\\RedisIntegration\\API_Integration_with_Redis\\Controllers\\RedisController.cs",
+              "RelativeToolTip": "API_Integration_with_Redis\\Controllers\\RedisController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T20:02:27.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\afati\\Documents\\GitHub\\RedisIntegration\\WebUI\\Program.cs",
+              "RelativeDocumentMoniker": "WebUI\\Program.cs",
+              "ToolTip": "C:\\Users\\afati\\Documents\\GitHub\\RedisIntegration\\WebUI\\Program.cs",
+              "RelativeToolTip": "WebUI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T16:19:52.983Z",
+              "EditorCaption": ""
             }
           ]
         }

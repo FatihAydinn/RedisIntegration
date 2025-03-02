@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RedisIntegration_Redis")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+66853c6dd53244a0adf37d251ec15340a33cc88b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b4f25699f5e530cb72255492365559e461672d4")]
 [assembly: System.Reflection.AssemblyProductAttribute("RedisIntegration_Redis")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RedisIntegration_Redis")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
