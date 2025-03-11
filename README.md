@@ -2,4 +2,6 @@
 
 ## CRUD functions completed with API
 
-## Multile Db table columns
+## Multiple Db table columns
+
+## CRUD functions with HASH  
